@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 This is Ehsan. I work in [HUBBS](https://hubbs.engr.tamu.edu/) Lab
+
+Recent News
+======
+* Our paper is accepted
+* Website is live
