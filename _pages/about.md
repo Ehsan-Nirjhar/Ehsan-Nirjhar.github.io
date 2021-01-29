@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Ehsan. I work in [HUBBS] (https://hubbs.engr.tamu.edu/) Lab
+This is Ehsan. I work in [HUBBS](https://hubbs.engr.tamu.edu/) Lab
