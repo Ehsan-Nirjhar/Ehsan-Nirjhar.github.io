@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-CV
+CV1
 
 
