@@ -1,18 +1,8 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Publications"
-    url: /publications/
         
   - title: "Contact"
     url: /contact/
     
-  - title: "CV"
-    url: /cv/
-    
+
 
