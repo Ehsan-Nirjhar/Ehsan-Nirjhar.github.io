@@ -216,8 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+
   # _publications
   - scope:
       path: ""
@@ -225,12 +224,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+
+  # _contact
   - scope:
       path: ""
-      type: portfolio
+      type: contact
     values:
       layout: single
       author_profile: true
