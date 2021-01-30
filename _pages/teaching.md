@@ -1,17 +1,9 @@
 ---
+layout: archive
 title: "Teaching"
-collection: teaching
-permalink: /teaching
-
+permalink: /teaching/
+author_profile: true
 ---
 
 kkk
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
