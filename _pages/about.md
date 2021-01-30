@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ehsan. I work in [HUBBS](https://hubbs.engr.tamu.edu/) Lab
+This is Ehsan. I work in [HUBBS](https://hubbs.engr.tamu.edu/) Lab.
 
 Recent News
 ======
