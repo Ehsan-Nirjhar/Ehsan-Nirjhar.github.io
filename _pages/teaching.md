@@ -5,5 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-kkk
+Teaching A
 
