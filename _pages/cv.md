@@ -3,10 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-CV1
+[Updated CV](https://github.com/Ehsan-Nirjhar/Ehsan-Nirjhar.github.io/blob/main/files/CV_public.pdf)
 
 

@@ -17,8 +17,8 @@ My works focus on building computational frameworks to understand people's stres
 Prior to joining TAMU, I completed my undergraduate studies in 2015 from the Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET).
 I grew up and lived in Dhaka, the bustling capital city of Bangladesh, before moving to College Station, Texas, USA in 2017.
 
-You can call me Ehsan.[Here's](https://www.pronouncenames.com/mp3/38813_13802773550677.mp3) a good example to illustrate how to say it, as sometimes people find it difficult to pronounce. 
-My countrymen call me by my last name, Nirjhar, which actually is my nick name, not surname in conventional manner (Funny story!)
+You can call me Ehsan. [Here's](https://www.pronouncenames.com/mp3/38813_13802773550677.mp3) a good example to illustrate how to say it, as sometimes people find it difficult to pronounce. 
+My countryfolks call me by my last name, Nirjhar, which actually is my nick name, not surname in conventional manner. (funny story!)
 
 Thank you for visiting my webpage!
 
