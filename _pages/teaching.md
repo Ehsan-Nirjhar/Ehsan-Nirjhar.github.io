@@ -5,5 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching A
-
+ABC
