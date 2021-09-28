@@ -25,6 +25,8 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
-* [March 2021] The first version of the VerBIO dataset is now publicly available [here](https://hubbs.engr.tamu.edu/resources/verbio-dataset/). It is a multimodal bio-behavioral dataset of individuals’ affective responses while performing public speaking tasks in real-life and virtual settings.
-* [January 2021] Our paper titled "Exploring individual differences of public speaking anxiety in real-life and virtual presentations" has been accepted in IEEE Transactions on Affective Computing. It is available [here](https://ieeexplore.ieee.org/document/9311251) in Early Access of IEEE Xplore.
-* [January 2021] Finally, the website is live!
+- **[September 2021] I am attending [ACII 2021](https://www.acii-conf.net/2021/) as a student volunteer.**
+- **[August 2021] 2 papers (1 short paper as first author, 1 long paper as 2nd author) have been accepted in [ICMI 2021](https://icmi.acm.org/2021/).**
+- [March 2021] The first version of the VerBIO dataset is now publicly available [here](https://hubbs.engr.tamu.edu/resources/verbio-dataset/). It is a multimodal bio-behavioral dataset of individuals’ affective responses while performing public speaking tasks in real-life and virtual settings.
+- [January 2021] Our paper titled "Exploring individual differences of public speaking anxiety in real-life and virtual presentations" has been accepted in IEEE Transactions on Affective Computing. It is available [here](https://ieeexplore.ieee.org/document/9311251) in Early Access of IEEE Xplore.
+
