@@ -25,6 +25,6 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
-- **[December 2021] Our collaborative and multidisciplinary paper on understanding pedestrian distress in urban environment has been accepted in Journal of Computing in Civil Engineering. [Paper Link] (https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0001009)**
+- **[December 2021] Our collaborative and multidisciplinary paper on understanding pedestrian distress in urban environment has been accepted in Journal of Computing in Civil Engineering. [Paper Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0001009)**
 - [September 2021] I am attending [ACII 2021](https://www.acii-conf.net/2021/) as a student volunteer.
 - [August 2021] 2 papers (1 short paper as first author, 1 long paper as 2nd author) have been accepted in [ICMI 2021](https://icmi.acm.org/2021/).
