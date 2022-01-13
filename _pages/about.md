@@ -11,7 +11,7 @@ redirect_from:
 I am pursuing my Ph.D. at the Department of Computer Science & Engineering, Texas A&M University. 
 Currently, I work in [HUman Bio-Behavioral Signals (HUBBS)](https://hubbs.engr.tamu.edu/) Lab, under the supervision of Dr. Theodora Chaspari. 
 In broader sense, my research interests are affective computing, signal processing, and machine learning. 
-My works focus on building computational frameworks to understand people's stress/anxiety in different settings using the multimodal bio-behavioral signals obtained from wearbale sensors. 
+My works focus on building computational frameworks to understand people's stress/anxiety in different settings using the multimodal bio-behavioral signals obtained from wearable sensors. 
 
 
 Prior to joining TAMU, I completed my undergraduate studies in 2015 from the Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET).
