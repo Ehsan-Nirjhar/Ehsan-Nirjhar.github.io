@@ -25,7 +25,6 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
-- **[May 2022] I will be working as a Research Intern at [Bosch Research](https://www.bosch-ai.com/) this summer as part of their Audio AI team.**
-- [December 2021] Our collaborative and multidisciplinary paper on understanding pedestrian distress in urban environment has been accepted in Journal of Computing in Civil Engineering. [Paper Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0001009)
-- [September 2021] I am attending [ACII 2021](https://www.acii-conf.net/2021/) as a student volunteer.
-- [August 2021] 2 papers (1 short paper as first author, 1 long paper as 2nd author) have been accepted in [ICMI 2021](https://icmi.acm.org/2021/).
+- **[October 2022] I am going to Nara, Japan to attend [ACII 2022](https://acii-conf.net/2022/) in-person and present my paper titled "Investigating the Interplay Between Self-Reported and Bio-Behavioral Measures of Stress: A Pilot Study of Civilian Job Interviews with Military Veterans." Excited to attend my first in-person conference!!**
+- **[July 2022] 1 paper (as 1st author) is accepted in [ACII 2022](https://acii-conf.net/2022/), and 1 paper (as 2nd author) is accepted in [ICMI 2022](https://icmi.acm.org/2022/)**
+- [May 2022] I will be working as a Research Intern at [Bosch Research](https://www.bosch-ai.com/) this summer as part of their Audio AI team.

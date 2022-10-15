@@ -11,6 +11,8 @@ author_profile: true
 
 Conference Papers
 ======
+1. **E. H. Nirjhar**, M. N. Sakib, E. Hagen, N. Rani, S. L. Chu, W. Arthur Jr., A. Behzadan, and T. Chaspari, "Investigating the Interplay Between Self-Reported and Bio-Behavioral Measures of Stress: A Pilot Study of Civilian Job Interviews with Military Veterans," accepted in *10th International Conference on Affective Computing and Intelligent Interaction (ACII), 2022*.
+1. J. Raether, **E. H. Nirjhar**, and T. Chaspari, "Evaluating Just-In-Time Vibrotactile Feedback for Communication Anxiety," accepted in *2022 International Conference on Multimodal Interaction, 2022*.
 1. **E. H. Nirjhar**, A. Behzadan, and T. Chaspari, "Knowledge- and Data-Driven Models of Multimodal Trajectories of Public Speaking Anxiety in Real and Virtual Settings," in *Proceedings of the 2021 International Conference on Multimodal Interaction, 2021*, pp. 712–716.
 1. A. A. Tutul, **E. H. Nirjhar**, and T. Chaspari, "Investigating Trust in Human-Machine Learning Collaboration: A Pilot Study on Estimating Public Anxiety from Speech," in *Proceedings of the 2021 International Conference on Multimodal Interaction, 2021*, pp. 288–296.
 1. M. von Ebers, **E. H. Nirjhar**, A. H. Behzadan, and T. Chaspari, "Predicting the effectiveness of systematic desensitization through virtual reality for mitigating public speaking anxiety," in *Proceedings of the 2020 International Conference on Multimodal Interaction, 2020*, pp. 670–674.
