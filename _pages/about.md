@@ -25,8 +25,10 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
-- **[April 2023] I passed my preliminary exam and completed my dissertation proposal defense. Officially a Ph.D. candidate now!**
-- **[April 2023] 1 paper (as 2nd author) has been accepted at Nature Scientific Reports.**
+- **[June 2023] My doctoral consortium paper based on my dissertation research has been accepted in [ACII 2023](https://acii-conf.net/2023/)**
+- **[May 2023] 1 paper (as 1st author) has been accepted at [Elsevier Smart Health Journal](https://www.sciencedirect.com/science/article/pii/S2352648323000429)**
+- [April 2023] I passed my preliminary exam and completed my dissertation proposal defense. Officially a Ph.D. candidate now!
+- [April 2023] 1 paper (as 2nd author) has been accepted at [Nature Scientific Reports](https://www.nature.com/articles/s41598-023-33132-z)
 - [December 2022] 1 paper (as 2nd author) is accepted in [NLP4PI Workshop@EMNLP 2022](https://sites.google.com/view/nlp4positiveimpact)
 - [October 2022] I am going to Nara, Japan to attend [ACII 2022](https://acii-conf.net/2022/) in-person and present my paper titled "Investigating the Interplay Between Self-Reported and Bio-Behavioral Measures of Stress: A Pilot Study of Civilian Job Interviews with Military Veterans." Excited to attend my first in-person conference!!
 - [July 2022] 1 paper (as 1st author) is accepted in [ACII 2022](https://acii-conf.net/2022/), and 1 paper (as 2nd author) is accepted in [ICMI 2022](https://icmi.acm.org/2022/)

@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
+1. **E. H. Nirjhar**, J. Kim, Winslow, J. F. Winslow, T. Chaspari, and C. R. Ahn, "Sensor-based detection of individual walkability perception to promote healthy communities," *Smart Health*, p.100414, 2023.
 1. J. Kim, **E. H. Nirjhar**, H. Lee, T. Chaspari, C. Lee, Y. Ham, J. F. Winslow, and C. R. Ahn, "Location-based collective distress using large-scale biosignals in real life for walkable built environments," *Scientific reports*, vol. 13, no.1, p. 5940, 2023.
 1. M. Yadav, M. N. Sakib, **E. H. Nirjhar**, K. Feng, A. Behzadan, and T. Chaspari, "Exploring individual differences of public speaking anxiety in real-life and virtual presentations," *IEEE Transactions on Affective Computing*, vol. 13, no. 3, pp. 1168–1182.
 1. J. Kim, **E. H. Nirjhar**, J. Kim, T. Chaspari, Y. Ham, J. F. Winslow, C. Lee, and C. R. Ahn, "Capturing environmental distress of pedestrians using multimodal data: The interplay of biosignals and image-based data,” *Journal of Computing in Civil Engineering*, vol. 36, no. 2, p. 04021039, 2022.
@@ -21,5 +22,6 @@ Conference Papers
 
 Workshop Papers
 ======
+1. **E. H. Nirjhar**, "Expression and Perception of Stress Through the Lens of Multimodal Signals: A Case Study in Interpersonal Communication Settings," accepted in ACII 2023 Doctoral Consortium.
 1. A. M. Pena, **E. H. Nirjhar**, A. Pachuilo, T. Chaspari, and E. D. Ragan, "Detecting changes in user behavior to understand interaction provenance during visual data analysis," in *IUI Workshops, 2019.*
 1. R. D. Verrap, **E. H. Nirjhar**, A. Nenkova, and T. Chaspari, ""Am I Answering My Job Interview Questions Right?": A NLP Approach to Predict Degree of Explanation in Job Interview Responses," in *Proceedings of the Second Workshop on NLP for Positive Impact (NLP4PI), 2022*, pp. 122–129.
