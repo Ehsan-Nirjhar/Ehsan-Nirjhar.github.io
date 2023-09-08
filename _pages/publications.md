@@ -20,7 +20,7 @@ Conference Papers
 1. **E. H. Nirjhar**, A. Behzadan, and T. Chaspari, "Exploring bio-behavioral signal trajectories of state anxiety during public speaking," in *ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE*, 2020, pp. 1294–1298.
 
 
-Workshop Papers
+Workshop/Doctoral Consortium Papers
 ======
 1. **E. H. Nirjhar**, "Expression and Perception of Stress Through the Lens of Multimodal Signals: A Case Study in Interpersonal Communication Settings," accepted in ACII 2023 Doctoral Consortium.
 1. A. M. Pena, **E. H. Nirjhar**, A. Pachuilo, T. Chaspari, and E. D. Ragan, "Detecting changes in user behavior to understand interaction provenance during visual data analysis," in *IUI Workshops, 2019.*
