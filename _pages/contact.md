@@ -6,7 +6,6 @@ author_profile: true
 
 ---
 nirjhar71 at tamu dot edu  
-nirjhar dot ehn at gmail dot com
 
 
 Office Location
