@@ -22,7 +22,7 @@ My countryfolks call me by my last name, Nirjhar, which actually is my nick name
 
 Thank you for visiting my webpage!
 
-**I am in the job market for research-focused full-time role in the industry from Summer 2024.**
+<span style="color: blue">**I am in the job market for research-focused full-time role in the industry from Summer 2024.**</span>
 
 Recent News
 ======
