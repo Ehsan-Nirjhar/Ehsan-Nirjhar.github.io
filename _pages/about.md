@@ -26,6 +26,7 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
+- **[March 2024] 1 paper (as 2nd author) has been accepted at [International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20)**
 - [September 2023] I am going to Cambridge, MA, USA to attend [ACII 2023](https://acii-conf.net/2023/) and present my doctoral consortium paper titled “Expression and Perception of Stress Through the Lens of Multimodal Signals: A Case Study in Interpersonal Communication Settings.”
 - [June 2023] My doctoral consortium paper based on my dissertation research has been accepted in [ACII 2023](https://acii-conf.net/2023/)
 - [May 2023] 1 paper (as 1st author) has been accepted at [Elsevier Smart Health Journal](https://www.sciencedirect.com/science/article/pii/S2352648323000429)
