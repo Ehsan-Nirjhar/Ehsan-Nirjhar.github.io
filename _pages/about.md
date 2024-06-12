@@ -22,10 +22,11 @@ My countryfolks call me by my last name, Nirjhar, which actually is my nick name
 
 Thank you for visiting my webpage!
 
-<span style="color: blue">**I am in the job market for research-focused full-time role in the industry or academia from Summer 2024.**</span>
+<span style="color: blue">**I am in the job market for research-focused full-time role in the industry or academia from September 2024.**</span>
 
 Recent News
 ======
+- **[June 2024] I defended my dissertation! Whoop!**
 - **[March 2024] 1 paper (as 2nd author) has been accepted at [International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20)**
 - [September 2023] I am going to Cambridge, MA, USA to attend [ACII 2023](https://acii-conf.net/2023/) and present my doctoral consortium paper titled “Expression and Perception of Stress Through the Lens of Multimodal Signals: A Case Study in Interpersonal Communication Settings.”
 - [June 2023] My doctoral consortium paper based on my dissertation research has been accepted in [ACII 2023](https://acii-conf.net/2023/)
