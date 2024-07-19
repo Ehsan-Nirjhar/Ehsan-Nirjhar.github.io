@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
+1. **E. H. Nirjhar**, and T. Chaspari, "Modeling Gold Standard Moment-to-Moment Ratings of Perception of Stress from Audio Recordings," to appear in *IEEE Transactions on Affective Computing*, 2024.
 1. M. N. Sakib, E. Hagen, N. Mazza, N. Rani, **E. H. Nirjhar**, S. L. Chu, T. Chaspari, A. Behzadan, and W. Arthur Jr., "Capitalizing on Strengths and Minimizing Weaknesses of Veterans in Civilian Employment Interviews: Perceptions of Interviewers and Veteran Interviewees," *Military Psychology*, pp. 1–13, 2024.
 1. A. A. Tutul, **E. H. Nirjhar**, and T. Chaspari, "Investigating Trust in Human-AI Collaboration for a Speech-based Data Analytics Task," *International Journal of Human-Computer Interaction*, pp. 1–19, 2024.
 1. **E. H. Nirjhar**, J. Kim, J. F. Winslow, T. Chaspari, and C. R. Ahn, "Sensor-based detection of individual walkability perception to promote healthy communities," *Smart Health*, p.100414, 2023.
@@ -15,6 +16,7 @@ author_profile: true
 
 Conference Papers
 ======
+1. **E. H. Nirjhar**, W. Arthur Jr., and T. Chaspari, "Perception of Stress: A Comparative Multimodal Analysis of Time-Continuous Stress Ratings from Self and Observers," accepted in *International Conference on Multimodal Interaction, 2021*.
 1. **E. H. Nirjhar**, M. N. Sakib, E. Hagen, N. Rani, S. L. Chu, W. Arthur Jr., A. Behzadan, and T. Chaspari, "Investigating the Interplay Between Self-Reported and Bio-Behavioral Measures of Stress: A Pilot Study of Civilian Job Interviews with Military Veterans," in *2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII), IEEE, 2022*, pp. 1–8.
 1. J. Raether, **E. H. Nirjhar**, and T. Chaspari, "Evaluating Just-In-Time Vibrotactile Feedback for Communication Anxiety," in *Proceedings of the 2022 International Conference on Multimodal Interaction, 2022*, pp. 117–127.
 1. **E. H. Nirjhar**, A. Behzadan, and T. Chaspari, "Knowledge- and Data-Driven Models of Multimodal Trajectories of Public Speaking Anxiety in Real and Virtual Settings," in *Proceedings of the 2021 International Conference on Multimodal Interaction, 2021*, pp. 712–716.
