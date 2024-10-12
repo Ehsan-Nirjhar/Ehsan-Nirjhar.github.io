@@ -8,13 +8,13 @@ author_profile: true
 nirjhar71 at tamu dot edu  
 
 
-Office Location
-======
-PETR 330, HUman Bio-Behavioral Signals (HUBBS) Lab,  
-Department of Computer Science & Engineering,   
-435 Nagle Street, College Station, TX, 77843.  
+[comment]:Office Location
+[comment]:======
+[comment]:PETR 330, HUman Bio-Behavioral Signals (HUBBS) Lab,  
+[comment]:Department of Computer Science & Engineering,   
+[comment]:435 Nagle Street, College Station, TX, 77843.  
 
-(Currenly Working from Home)
+[comment]:(Currenly Working from Home)
 
 
 
