@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a Postdoctoral Scientist in the Data Science & Digital Health (DSDH) group at Johnson & Johnson Innovative Medicine (Janssen R&D).
+Specifically, I work in the Digital Health & Biomarker Analytics team which develops insights focusing on analytics of data from digital health technologies to facilitate patient wellbeing.
+
 I completed my Ph.D. at the Department of Computer Science & Engineering, Texas A&M University. 
-I have been working in [HUman Bio-Behavioral Signals (HUBBS)](https://hubbs.engr.tamu.edu/) Lab, under the supervision of Dr. Theodora Chaspari. 
+I worked in [HUman Bio-Behavioral Signals (HUBBS)](https://hubbs.engr.tamu.edu/) Lab, under the supervision of Dr. Theodora Chaspari. 
 In broader sense, my research interests are affective computing, signal processing, and machine learning. 
 My works focus on building computational frameworks to understand people's stress/anxiety in different settings using the multimodal bio-behavioral signals obtained from wearable sensors. 
 
@@ -25,9 +28,10 @@ Thank you for visiting my webpage!
 
 Recent News
 ======
-- **[August 2024] I graduated from Texas A&M University**
-- **[July 2024] 1 paper (as 1st author) is accepted in [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)**
-- **[July 2024] 1 paper (as 1st author) is accepted in [ICMI 2024](https://icmi.acm.org/2024/)**
+- **[January 2025] I started as a Postdoctoral Scientist at Johnson & Johnson Innovative Medicine (Janssen R&D)**
+- [August 2024] I graduated from Texas A&M University
+- [July 2024] 1 paper (as 1st author) is accepted in [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)
+- [July 2024] 1 paper (as 1st author) is accepted in [ICMI 2024](https://icmi.acm.org/2024/)
 - [June 2024] I defended my dissertation! Whoop!
 - [March 2024] 1 paper (as 2nd author) has been accepted at [International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20)
 - [September 2023] I am going to Cambridge, MA, USA to attend [ACII 2023](https://acii-conf.net/2023/) and present my doctoral consortium paper titled “Expression and Perception of Stress Through the Lens of Multimodal Signals: A Case Study in Interpersonal Communication Settings.”
